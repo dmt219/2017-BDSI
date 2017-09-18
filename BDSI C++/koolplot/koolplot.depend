@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1501037094 source:c:\users\minhd\desktop\bdsi test\koolplot\test.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<stdio.h>
+	<vector>
+	<koolplot.h>
+	<string.h>
+	<stdlib.h>
+	<algorithm>
+	<utility>
+	<cmath>
+
+1297526890 c:\program files (x86)\codeblocks-ep\sdk\koolplot\include\koolplot.h
+	"Plotstream.h"
+
+1120747762 c:\program files (x86)\codeblocks-ep\sdk\koolplot\include\plotstream.h
+	<graphics.h>
+	"PlotData.h"
+
+1266115814 c:\program files (x86)\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1266547176 c:\program files (x86)\codeblocks-ep\sdk\koolplot\include\plotdata.h
+	<cmath>
+	<vector>
+	<iostream>
+
